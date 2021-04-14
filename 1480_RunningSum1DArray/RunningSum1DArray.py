@@ -1,4 +1,4 @@
-def runningSum(self, nums):
+def runningSum(nums):
     sums = []
     summe = 0
     for i in nums:
